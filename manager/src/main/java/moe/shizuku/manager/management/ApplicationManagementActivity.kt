@@ -85,3 +85,4 @@ class ApplicationManagementActivity : AppBarActivity() {
         adapter.notifyDataSetChanged()
     }
 }
+
